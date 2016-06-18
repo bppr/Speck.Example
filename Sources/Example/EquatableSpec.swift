@@ -27,7 +27,7 @@ let EquatableSpec = describe("`Equatable` expectations") {
 		let maybeString: String? = nil
 		let maybeInt: Int? = nil
 
-		expect(maybeString).to(equal: "a-string")
+		expect(maybeString).to(equal: nil)
 		expect(maybeInt).to(equal: nil)
 
 		expect("a").not.to(equal: nil)
