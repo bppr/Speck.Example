@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Speck",
+        "repositoryURL": "/Users/pratt/src/projects/Speck",
+        "state": {
+          "branch": null,
+          "revision": "4b3d28e0728571e48818b09b8e6c4713456bda37",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
